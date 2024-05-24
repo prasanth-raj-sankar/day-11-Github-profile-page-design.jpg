@@ -1,0 +1,61 @@
+body{
+    background-color: #cad2c5;
+}
+
+.background-menu{
+    background-color: #2f3d46;
+    width: 100%;
+    height: 90px;
+}
+
+/* .icon-git{
+    position: relative;
+    top: 8px;
+} */
+
+h3{
+    color: #fff;
+}
+
+.background-head{
+    background-color: #353535;
+    margin-top: 85px;
+    height: 600px;
+    border-radius: 40px;
+    width: 355px;
+}
+
+.background-head-two{
+    background-color: #353535;
+    margin-top: 85px;
+    height: 56px;
+    border-radius: 11px;
+    width: 480px;
+}
+
+h5{
+    color: #838383;
+    padding-top: 14px;
+    padding-left: 10px;
+}
+
+.background-head-three{
+    background-color: #353535;
+    height: 125px;
+    border-radius: 11px;
+    width: 125px;
+}
+
+.background-head-foure{
+    background-color: #353535;
+    height: 149px;
+    border-radius: 11px;
+    /* width: 689px; */
+    width: 494px;
+}
+
+@media screen and (max-width:500px) {
+    .zoom-property{
+        zoom:0.6;
+    }
+}
